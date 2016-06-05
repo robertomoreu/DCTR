@@ -1,0 +1,277 @@
+﻿# Contenido:
+# Palabra	Sustitucion (separado por tabulador)
+A.	alteza
+a/a	aire acondicionado
+AA.EE.	asuntos exteriores
+Avg.	abogado
+abrev.	abreviación
+a.C.	antes de Cristo
+acept.	aceptación
+acort.	acortamiento
+acrón.	acrónimo
+act.	activo
+acus.	acusativo
+a.D.	anno Dómini
+a. de J.C.	antes de Jesucristo
+a D.g.	a Dios gracias
+adj.	adjetivo
+admón.	administración
+adv.	adverbio
+advers.	adversativo
+afirm.	de afirmación
+afmo.	afectísimo
+a.J.C	antes de Jesucristo
+Alc.	alcalde
+Alfz.	alférez
+Almte.	almirante
+Am.Cen.	America Central
+a.m.	antes del mediodía
+apdo.	apartado
+aprox.	aproximado
+art.	artículo
+A.R.	alteza real
+arch.	archivo
+art.;	artículo
+art.º	artículo
+Atlco.	atlético
+atóm.	atómico
+atte.	atentamente
+atto.	atento
+atta.	atenta
+aux.	auxiliar
+av.	avenida
+avd.	avenida
+avda.	avenida
+ayte.	ayudante
+c.	calle
+C.ª	compañía
+C.A.	comunidad autónoma
+caj.	caja
+cant.	cantidad
+cap.	capítulo
+Cap. Fed.	Capital federal
+Card.	cardenal
+cast.	castellano
+Cdad.	ciudad
+c.e.	correo electrónico
+cént.	céntimo
+C.F.	club de fútbol
+C.P.	código postal
+cgo.	cargo
+cl.	calle
+cmte.	comandante
+cnel.	coronel
+cód.	código
+colect.	colectivo
+col.	columna
+comp.	compañía
+coop.	cooperativa
+coord.	coordinador
+conj.	conjunción
+consec.	consecutivo
+cta.	cuenta
+D.	don
+D.ª	doña
+Dña.	doña
+d.C.	después de Cristo
+dcho.	derecho
+del.	delegación
+depto.	departamento
+dpto.	departamento
+dicc.	diccionario
+dir.	dirección
+doc.	documento
+D.P.	distrito postal
+Dpt.º	departamento
+Dr.	doctor
+Dra.	doctora
+Dr.ª	doctora
+dto.	descuento
+ed.	editorial
+EE.UU.	Estados Unidos
+ej.	ejemplo
+Em.ª	eminencia
+Emmo.	excelentísimo
+escr.	escrito
+Esp.	España
+etc.	etcétera
+etim.	etimología
+eufem.	eufemismo
+Exc.ª	excelencia
+Excmo.	excelentísimo
+Excma.	excelentísima
+expr.	expresión
+ext.	extensión
+f.	femenino
+f.ª	factura
+F.C.	ferrocarril
+fca.	fábrica
+Fdo.	firmado
+fest.	festivo
+FF.AA.	Fuerzas Armadas
+FF.CC.	ferrocarriles
+FF.NN.	Fuerzas Navales
+fig.	figura
+fr.	francés
+Gdor.	gobernador
+gralm.	generalmente
+gob.	gobierno
+gr.	griego
+Gral.	general
+gta.	glorieta
+Hno.	hermano
+Hna.	hermana
+hiperb.	hiperbólico
+hisp.	hispánico
+hist.	historia
+hnos.	hermanos
+hras.	herederas
+hros.	herederos
+I.	ilustre
+íd.	ídem
+igl.ª	iglesia
+iltre.	ilustre
+Ilmo.	ilustrísimo
+Ilma.	ilustrísima
+imper.	imperativo
+incl.	inclusive
+indef.	indefinido
+indet.	indeterminado
+ing.	ingeniero
+ingen.	ingeniería
+ingl.	inglés
+Inst.	instituto
+irl.	irlandés
+it.	italiano
+izda.	izquierda
+izqda.	izquierda
+J.C.	Jesucristo
+JJ.OO.	Juegos Olímpicos
+jap.	japonés
+juv.	juvenil
+k.o.	knock out
+lat.	latín
+Lcdo.	licenciado
+Lcda.	licenciada
+Ldo.	licenciado
+Lda.	licenciada
+leng.	lenguaje
+Lóg.	lógica
+Ltdo.	limitado
+Ltda.	limitada
+m.	masculino
+Mad.	Madrid
+Mat.	matemáticas
+Mtr.	Máster
+máx.	máximo
+may.	mayúscula
+mec.	mecánica
+med.	medicina
+Méx.	México
+minúsc.	minúscula
+mín.	mínimo
+morf.	morfología
+Mtro.	maestro
+Mús.	música
+n.	nombre
+N.ªS.ª	Nuestra Señora
+Ntra. Sra.	Nuestra señora
+n.º	número
+num.	número
+núm.	número
+nro.	número
+neerl.	neerlandés
+neg.	negación
+negat.	negativo
+nórd.	nórdico
+Ob.	obispo
+O.M.	orden ministerial
+Ópt.	óptica
+or.	origen
+ord.	orden
+ortogr.	ortografía
+orig.	origen
+p.	página
+pág.	página
+págs.	páginas
+pag.	página
+pags.	páginas
+p.a.	por autorización
+Pan.	Panamá
+Par.	Paraguay
+párr.	párrafo
+P.D.	posdata
+pdo.	pasado
+Pdte.	presidente
+Pdta.	presidenta
+pers.	personal
+p.k.	punto kilométrico
+pl.	plural
+P.M.	policía militar
+Pnt.	pontífice
+p.o.	por orden
+p.º	paseo
+ppal.	principal
+pres.	presidente
+Prof.	profesor
+Prof.ª	profesora
+prov.	provincia
+P.V.P.	previo de venta al público
+reg.	registro
+rel.	religión
+rep.	república
+R.I.P.	descanse en paz
+R.O.	real orden
+r.p.m.	revoluciones por minuto
+RR.HH.	recursos humanos
+RR.MM.	reyes magos
+rte.	remitente
+rur.	rural
+S.	san
+s.	sustantivo
+S.ª	señora
+S.A.	sociedad anónima
+sdad.	sociedad
+Sev.	Sevilla
+sgto.	sargento
+sig.	siguiente
+sing.	singular
+S.L.	sociedad limitada
+soc.	sociedad
+S.P.	servicio público
+Sr.	señor
+Sra.	señora
+S.ª	señora
+Sr.ª	señora
+Srta.	señorita
+sto.	santo
+sta.	santa
+sust.	sustantivo
+t.	tomo
+tb.	también
+tec.	técnico
+tel.	teléfono
+teléf.	teléfono
+tfno.	teléfono
+telec.	telecomunicación
+term.	terminación
+tít.	título
+tpo.	tiempo
+trad.	traducción
+transp.	transportes
+TV.	televisión
+U.	usted
+ud.	usted
+v.	usted
+vd.	usted
+univ.	universidad
+vda.	viuda
+V.O.	versión original
+vol.	volumen
+V.O.S.	versión original subtitulada
+vs.	versus
+vto.	vuelto
+vta.	vuelta
+vv.aa.	varios autores
+W.C.	servicio
+Xto.	Cristo
